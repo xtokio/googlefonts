@@ -6,8 +6,7 @@ Webpage to download Google fonts as a base64 string and use it as embedded css i
 [Google Fonts Downloader](https://app.mischicanadas.com/googlefonts/)
 
 ## Usage
-Visit [Google Fonts](https://fonts.google.com/) and select your favorite font and from the CSS example copy the href value, 
-example:
+Visit [Google Fonts](https://fonts.google.com/) and select your favorite font and from the CSS example copy the href value
 ```html
 <link href="https://fonts.googleapis.com/css?family=Gayathri&display=swap" rel="stylesheet">
 ```
